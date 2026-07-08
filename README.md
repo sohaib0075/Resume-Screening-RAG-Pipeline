@@ -41,15 +41,15 @@ RAG Fusion, in particular, is effective in addressing complex and ambiguous huma
 
 **Starting screen**
 
-![Starting screen](assets/Screenshot_125.png)
+![Starting screen](assets/starting_screen.png)
 
 **Example response when receiving a job description**
 
-![Job description response](assets/Screenshot_128.png)
+![Job description response](assets/job_description_response.png)
 
 **Example response when receiving specific applicant IDs**
 
-![Applicant ID response](assets/Screenshot_127.png)
+![Applicant ID response](assets/applicant_id_response.png)
 
 ---
 
@@ -72,6 +72,8 @@ The deployed chatbot uses the following techniques to be more suitable for real-
 - `streamlit` — User interface development
 
 ### 2. Under-the-Hood: RAG Pipeline
+
+![RAG pipeline diagram](assets/rag_pipeline_diagram.png)
 
 **Encoder (1)**
 
